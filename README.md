@@ -21,7 +21,7 @@ This folder uses the () dataset from kaggle.
 2. Create folders for our project and do basic file analysis
 
 ##Sample analysis
-- ![No. of penguins by each species.](figures/bar species count.png)
+- ![No. of penguins by each species.](figures/bar_species_count.png)
 
 ##result analysis
 |Research Question|Graph or output|
